@@ -6,7 +6,7 @@ require (
 	github.com/edgexfoundry/device-sdk-go/v3 v3.0.0-dev.28
 	github.com/edgexfoundry/go-mod-core-contracts/v3 v3.0.0-dev.14
 	github.com/spf13/cast v1.5.0
-	github.com/warthog618/gpiod v0.8.0
+	github.com/warthog618/gpiod v0.8.1
 )
 
 require (
